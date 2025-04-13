@@ -69,5 +69,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 For any questions or concerns, please contact:
-- Email: info@cajah.org
-- Phone: (123) 456-7890 
+- Email: alukoooreoluwa31@gmail.com
+- Phone:+234 8079325881 or 08038547787 
