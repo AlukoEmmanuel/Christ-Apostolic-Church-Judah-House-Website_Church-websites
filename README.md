@@ -25,7 +25,7 @@ A modern, responsive website for Christ Apostolic Church Judah House built with 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/cajah2.git
+https://github.com/AlukoEmmanuel/Christ-Apostolic-Church-Judah-House-Website_Church-websites
 ```
 
 2. Install dependencies:
